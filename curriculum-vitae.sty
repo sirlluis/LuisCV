@@ -22,23 +22,23 @@
 \RequirePackage[a4paper]{geometry}						% define page styles using geometry
 \geometry{top=1.4cm, bottom=1.4cm, left=1cm, right=1cm}	% remove all possible margins
 \RequirePackage{color}
-\definecolor{red}{RGB}{218, 0, 55}
+\definecolor{deepcarminepink}{rgb}{0.94, 0.19, 0.22}
 \definecolor{black}{RGB}{23, 23, 23}
 \definecolor{gray}{RGB}{147, 147, 147}
 \RequirePackage[pdfusetitle,
 	hidelinks,		
 	pdfborder		={0 0 0},		% Avoid borders in PDF
-	linkcolor		= red,			% simple internal links
+	linkcolor		= deepcarminepink,			% simple internal links
 	colorlinks		= true,			% Set text color
 	anchorcolor		= black,		% Anchor text
 	menucolor		= black,		% Acrobat-menu
-	urlcolor		= red			% Reference to internet links 
+	urlcolor		= deepcarminepink			% Reference to internet links 
 ]{hyperref}							% Hyperlink
 \RequirePackage{fancyhdr, lastpage}	% Paging style
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0pt}
-\cfoot{\textbf{\thepage \ / \pageref{LastPage}}}
+%\cfoot{\textbf{\thepage \ / \pageref{LastPage}}}
 \RequirePackage{setspace}			% Varying line spacing
 \RequirePackage[none]{hyphenat}		% No word break with hyphen
 
@@ -47,8 +47,8 @@
 \def\firstLetter#1#2@{#1}
 \def\secondLetter#1#2@{#2}
 \newcommand\tab[1][.9cm]{\hspace*{#1}}
-\newcommand{\cvContactSpace}{\quad\textcolor{red}{$\bullet$}\quad}
-\newcommand{\cvContactSep}{\textcolor{red}{\textbf{|}} }
+\newcommand{\cvContactSpace}{\quad\textcolor{deepcarminepink}{$\bullet$}\quad}
+\newcommand{\cvContactSep}{\textcolor{deepcarminepink}{\textbf{|}} }
 %============================================================================%
 %	CV COMMANDS
 %============================================================================%
@@ -64,9 +64,9 @@
 %	CV TITLE
 \newcommand{\cvtitle}[1]{
 	\begin{center}
-		{\fontsize{27}{0}\selectfont
+		{\fontsize{26}{0}\selectfont
 			\texttt{\@firstname \ {\color{gray}{\@lastname}} }
-			\textcolor{red}{\cvContactSep \textbf{#1}}}\\
+			\textcolor{deepcarminepink}{\cvContactSep \textbf{#1}}}\\
 		{\fontsize{12}{0}\selectfont
 			\href{mailto:\@mail}{\faIcon{envelope} \@mail}
 			\cvContactSpace \@address
@@ -79,7 +79,7 @@
 %	CV SECTION
 \newcommand{\cvSection}[1]{
 	
-	{\textcolor{red}{\texttt{\Huge{\firstLetter#1@}\LARGE{\secondLetter#1@}} \hrulefill}}\\~\\
+	{\textcolor{deepcarminepink}{\texttt{\Huge{\firstLetter#1@}\LARGE{\secondLetter#1@}} \hrulefill}}\\~\\
 }
 %	 CV Block with date/time
 \newcommand{\CVBlockWithTime}[5]{
