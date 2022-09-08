@@ -1,0 +1,83 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.25) (preloaded format=latex 2022.9.8)  8 SEP 2022 08:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"c:/Users/Mi PC/Desktop/github/LuisCV/CV.tex"
+(c:/Users/Mi PC/Desktop/github/LuisCV/CV.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-15> (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (curriculum-vitae.sty
+Package: curriculum-vitae 2022/27/04
+ (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count193
+\decimalpart=\count194
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+ (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count195
+\calc@Bcount=\count196
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count197
+\calc@Cskip=\skip51
+) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-07-15 L3 programming layer (loader) 
+ (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-dvips.def
+File: l3backend-dvips.def 2022-07-01 L3 backend support: dvips
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count198
+\l__pdf_backend_content_box=\box52
+\l__pdf_backend_model_box=\box53
+\g__pdf_backend_annotation_int=\count199
+\g__pdf_backend_link_int=\count266
+\g__pdf_backend_link_sf_int=\count267
+))
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+ (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-generic-helper.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fontawesome5
+ (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-mapping.def))) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/moresize\moresize.sty
+Package: moresize 1999/07/26 v1.9 (more font sizes)
+) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\Mi PC\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+
+! Fatal Package fontspec Error: The fontspec package requires either XeTeX or
+(fontspec)                      LuaTeX.
+(fontspec)                      
+(fontspec)   

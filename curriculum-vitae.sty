@@ -60,7 +60,7 @@
 \newcommand*{\setmail}[1]{\def\@mail{#1}}
 \newcommand*{\setlinkedin}[1]{\def\@linkedin{#1}}
 \newcommand*{\setgithub}[1]{\def\@github{#1}}
-\newcommand*{\setblog}[1]{\def\@blog{#1}}
+\newcommand*{\setage}[1]{\def\@age{#1}}
 %	CV TITLE
 \newcommand{\cvtitle}[1]{
 	\begin{center}
@@ -69,11 +69,11 @@
 			\textcolor{deepcarminepink}{\cvContactSep \textbf{#1}}}\\
 		{\fontsize{12}{0}\selectfont
 			\href{mailto:\@mail}{\faIcon{envelope} \@mail}
-			\cvContactSpace \@address
-			\cvContactSpace \faIcon{phone} \@mobile\\
+			\cvContactSpace \faIcon{location-arrow} \@address
+			\cvContactSpace \href{https://wa.me/527225319006}{\faIcon{whatsapp} \@mobile}\\
 			\href{\@github}{\faIcon{github} GitHub}
 			\cvContactSpace \href{\@linkedin}{\faIcon{linkedin} LinkedIn}
-			\cvContactSpace \href{\@blog}{\faIcon{blog} Blog}\\~{\Large \\~\\}}
+			\cvContactSpace \faIcon{birthday-cake} \@age	\\~{\Large \\~\\}}
 	\end{center}
 }
 %	CV SECTION
