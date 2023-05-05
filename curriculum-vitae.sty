@@ -61,6 +61,7 @@
 \newcommand*{\setlinkedin}[1]{\def\@linkedin{#1}}
 \newcommand*{\setgithub}[1]{\def\@github{#1}}
 \newcommand*{\setage}[1]{\def\@age{#1}}
+\newcommand*{\setcard}[1]{\def\@card{#1}}
 %	CV TITLE
 \newcommand{\cvtitle}[1]{
 	\begin{center}
@@ -73,7 +74,9 @@
 			\cvContactSpace \href{https://wa.me/527225319006}{\faIcon{whatsapp} \@mobile}\\
 			\href{\@github}{\faIcon{github} GitHub}
 			\cvContactSpace \href{\@linkedin}{\faIcon{linkedin} LinkedIn}
-			\cvContactSpace \faIcon{birthday-cake} \@age	\\~{\Large \\~\\}}
+			\cvContactSpace \faIcon{birthday-cake} \@age
+			\cvContactSpace \faIcon{id-card} \@card
+			\\~{\Large \\~\\}}
 	\end{center}
 }
 %	CV SECTION

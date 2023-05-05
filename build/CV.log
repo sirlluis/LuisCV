@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.7.25) (preloaded format=xelatex 2022.9.8)  8 SEP 2022 09:27
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.7.25) (preloaded format=xelatex 2022.9.8)  5 MAY 2023 14:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -428,127 +428,162 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 24.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 24.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 24.
+(Font)              <6> on input line 25.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--37
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--37
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--37
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
 
  []
 
 
 LaTeX Font Warning: Font shape `TU/BebasKai(0)/b/n' undefined
-(Font)              using `TU/BebasKai(0)/m/n' instead on input line 40.
+(Font)              using `TU/BebasKai(0)/m/n' instead on input line 41.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 40.
+(Font)              <7> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 40.
+(Font)              <5> on input line 41.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--48
+Underfull \hbox (badness 10000) in paragraph at lines 38--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--48
+Underfull \hbox (badness 10000) in paragraph at lines 38--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--48
+Underfull \hbox (badness 10000) in paragraph at lines 38--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 38--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 49--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 49--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 49--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 49--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--58
+Underfull \hbox (badness 10000) in paragraph at lines 49--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--78
+Underfull \hbox (badness 10000) in paragraph at lines 49--61
 
  []
 
 
-Overfull \hbox (7.85695pt too wide) in paragraph at lines 58--78
+Underfull \hbox (badness 10000) in paragraph at lines 49--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--78
+
+ []
+
+
+Overfull \hbox (7.85695pt too wide) in paragraph at lines 61--78
 | [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--78
+Underfull \hbox (badness 10000) in paragraph at lines 61--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--78
+Underfull \hbox (badness 10000) in paragraph at lines 61--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--83
+Underfull \hbox (badness 10000) in paragraph at lines 61--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--83
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--83
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--83
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 [1
 
-] 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 87--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--95
+
+ []
+
+
 AED: lastpage setting LastPage
 [2] (c:\Users\Mi PC\Desktop\github\LuisCV\build\CV.aux)
 
@@ -558,12 +593,12 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13237 strings out of 410653
- 255376 string characters out of 2816266
- 636602 words of memory out of 3000000
- 34126 multiletter control sequences out of 15000+600000
+ 13240 strings out of 410653
+ 255395 string characters out of 2816266
+ 637623 words of memory out of 3000000
+ 34128 multiletter control sequences out of 15000+600000
  472595 words of font info for 68 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,11n,92p,420b,321s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on c:\Users\Mi PC\Desktop\github\LuisCV\build\CV.xdv (2 pages, 23872 bytes).
+Output written on c:\Users\Mi PC\Desktop\github\LuisCV\build\CV.xdv (2 pages, 32432 bytes).
