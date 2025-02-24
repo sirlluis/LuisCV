@@ -22,17 +22,17 @@
 \RequirePackage[a4paper]{geometry}						% define page styles using geometry
 \geometry{top=1.4cm, bottom=1.4cm, left=1cm, right=1cm}	% remove all possible margins
 \RequirePackage{color}
-\definecolor{deepcarminepink}{rgb}{0.94, 0.19, 0.22}
+\definecolor{cobalt}{rgb}{0.0, 0.28, 0.67}
 \definecolor{black}{RGB}{23, 23, 23}
 \definecolor{gray}{RGB}{147, 147, 147}
 \RequirePackage[pdfusetitle,
 	hidelinks,		
 	pdfborder		={0 0 0},		% Avoid borders in PDF
-	linkcolor		= deepcarminepink,			% simple internal links
+	linkcolor		= cobalt,			% simple internal links
 	colorlinks		= true,			% Set text color
 	anchorcolor		= black,		% Anchor text
 	menucolor		= black,		% Acrobat-menu
-	urlcolor		= deepcarminepink			% Reference to internet links 
+	urlcolor		= cobalt			% Reference to internet links 
 ]{hyperref}							% Hyperlink
 \RequirePackage{fancyhdr, lastpage}	% Paging style
 \pagestyle{fancy}
@@ -47,8 +47,8 @@
 \def\firstLetter#1#2@{#1}
 \def\secondLetter#1#2@{#2}
 \newcommand\tab[1][.9cm]{\hspace*{#1}}
-\newcommand{\cvContactSpace}{\quad\textcolor{deepcarminepink}{$\bullet$}\quad}
-\newcommand{\cvContactSep}{\textcolor{deepcarminepink}{\textbf{|}} }
+\newcommand{\cvContactSpace}{\quad\textcolor{cobalt}{$\bullet$}\quad}
+\newcommand{\cvContactSep}{\textcolor{cobalt}{\textbf{|}} }
 %============================================================================%
 %	CV COMMANDS
 %============================================================================%
@@ -67,7 +67,7 @@
 	\begin{center}
 		{\fontsize{26}{0}\selectfont
 			\texttt{\@firstname \ {\color{gray}{\@lastname}} }
-			\textcolor{deepcarminepink}{\cvContactSep \textbf{#1}}}\\
+			\textcolor{cobalt}{\cvContactSep \textbf{#1}}}\\
 		{\fontsize{12}{0}\selectfont
 			\href{mailto:\@mail}{\faIcon{envelope} \@mail}
 			\cvContactSpace \faIcon{location-arrow} \@address
@@ -82,7 +82,7 @@
 %	CV SECTION
 \newcommand{\cvSection}[1]{
 	
-	{\textcolor{deepcarminepink}{\texttt{\Huge{\firstLetter#1@}\LARGE{\secondLetter#1@}} \hrulefill}}\\~\\
+	{\textcolor{cobalt}{\texttt{\Huge{\firstLetter#1@}\LARGE{\secondLetter#1@}} \hrulefill}}\\~\\
 }
 %	 CV Block with date/time
 \newcommand{\CVBlockWithTime}[5]{
