@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.7.8)  31 JAN 2025 14:17
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.7.8)  24 FEB 2025 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -623,75 +623,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--63
 
  []
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+]
+Underfull \hbox (badness 10000) in paragraph at lines 64--81
 
  []
 
 
-Overfull \hbox (7.85695pt too wide) in paragraph at lines 63--80
+Overfull \hbox (7.85695pt too wide) in paragraph at lines 64--81
 | [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+Underfull \hbox (badness 10000) in paragraph at lines 64--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
+Underfull \hbox (badness 10000) in paragraph at lines 64--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--80
-
- []
-
-[1
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
+Underfull \hbox (badness 10000) in paragraph at lines 64--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--97
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--97
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--97
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--97
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--97
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--97
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
 
  []
 
@@ -711,8 +711,8 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13616 strings out of 409616
- 258505 string characters out of 5773993
- 1936191 words of memory out of 5000000
+ 258496 string characters out of 5773993
+ 1934191 words of memory out of 5000000
  35534 multiletter control sequences out of 15000+600000
  561405 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
